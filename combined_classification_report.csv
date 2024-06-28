@@ -1,0 +1,13 @@
+,Model,precision,recall,f1-score,support,accuracy
+0,Sin Regularización y Sin Balanceo,0.99,0.93,0.96,113482.0,0.98
+1,Sin Regularización y Sin Balanceo,0.97,1.0,0.98,246787.0,0.98
+macro avg,Sin Regularización y Sin Balanceo,0.98,0.96,0.97,360269.0,0.98
+weighted avg,Sin Regularización y Sin Balanceo,0.98,0.98,0.98,360269.0,0.98
+0,Balanceado Sin Regularización,0.96,0.97,0.97,113482.0,0.98
+1,Balanceado Sin Regularización,0.99,0.98,0.98,246787.0,0.98
+macro avg,Balanceado Sin Regularización,0.98,0.98,0.98,360269.0,0.98
+weighted avg,Balanceado Sin Regularización,0.98,0.98,0.98,360269.0,0.98
+0,Balanceado y Regularizado,0.99,0.99,0.99,113482.0,0.99
+1,Balanceado y Regularizado,1.0,1.0,1.0,246787.0,0.99
+macro avg,Balanceado y Regularizado,0.99,0.99,0.99,360269.0,0.99
+weighted avg,Balanceado y Regularizado,0.99,0.99,0.99,360269.0,0.99
